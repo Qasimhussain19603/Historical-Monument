@@ -1,0 +1,349 @@
+.Body-pic
+{
+    background-image: url(images/Karachi.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+
+}
+
+.Body-pic1
+{
+    background-image: url(images/Lahore.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+    
+}
+
+.Body-pic2
+{
+    background-image: url(images/Islamabad.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic3
+{
+    background-image: url(images/Rawalpindi.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic4
+{
+    background-image: url(images/Faisalabad.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic5
+{
+    background-image: url(images/Multan.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic6
+{
+    background-image: url(images/Hyderabad.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic7
+{
+    background-image: url(images/Sialkot.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic8
+{
+    background-image: url(images/Peshawar.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic9
+{
+    background-image: url(images/Sukkur.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic10
+{
+    background-image: url(images/Murree.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic11
+{
+    background-image: url(images/Mangla.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic12
+{
+    background-image: url(images/PanoAqil.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic13
+{
+    background-image: url(images/Bahawalpur.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic14
+{
+    background-image: url(images/Sadiqabad.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+.Body-pic15
+{
+    background-image: url(images/Larkana.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic16
+{
+    background-image: url(images/Sahiwal.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic17
+{
+    background-image: url(images/WahhCannt.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic18
+{
+    background-image: url(images/Abottabad.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic19
+{
+    background-image: url(images/RahimYarKhan.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic20
+{
+    background-image: url(images/DeraGhaziKhan.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic21
+{
+    background-image: url(images/Sargodha.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic22
+{
+    background-image: url(images/Gujranwala.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic23
+{
+    background-image: url(images/Quetta.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic24
+{
+    background-image: url(images/Okara.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic25
+{
+    background-image: url(images/Jhelum.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+    
+    
+
+}
+.Body-pic26
+{
+    background-image: url(images/Mardan.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+    
+
+}
+.Body-pic27
+{
+    background-image: url(images/Kamoke.webp);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+    
+
+}
+.Body-pic28
+{
+    background-image: url(images/Gujrat.jpg);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+.Body-pic29
+{
+    background-image: url(images/Sheikhupura.jpg);
+    background-position: center!important;;
+    background-size: cover!important;;
+    padding: 2px!important;;
+    cursor: pointer!important;
+    height: 260px;
+    width: 220px;
+}
+
+
+.alphabet
+{
+     position: relative;
+    top: 30px;
+    left: -10px!important;;
+    font-size: 10.5em!important;;
+    color: #ff15cc;
+    font-weight: 700;
+   
+    transition-duration: 0.4s;
+    opacity: 0;
+}
+ .alphabet:hover
+{
+    opacity: 0.4;
+}
+a{
+    text-decoration: none;
+}
+.karachi{
+
+    margin-left: 20px;
+    color: white;
+}

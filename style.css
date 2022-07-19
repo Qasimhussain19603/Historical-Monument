@@ -1,0 +1,172 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.nav-bar
+{
+  background-color: #fff;
+}
+
+/* group-1 */
+
+.back-image
+{
+ height: 80vh !important;
+ background-image: url(images/background.webp);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-size: 50% 100% !important;
+ background-position: 140% !important;
+
+}
+.back-image4{
+  
+ height: 80vh !important;
+ background-image: url(images/hero_city.webp);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-size: 50% 100% !important;
+ background-position: 140% !important;
+
+}
+
+.btn-color
+{
+    background-color: #D70F64;
+    color: white;
+    width: 160px;
+    font-weight: bold;
+    height: 60px;
+    border-radius: 0px;
+}
+.btn-color:hover{
+  color: white;
+  background-color: #e21d6f; ;
+}
+.btn-color2{
+  background-color: #D70F64;
+  color: white;
+  width: 250px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 30px;
+  border-radius: 0px;
+  
+}
+.btn-color2:hover{
+  color: white;
+  background-color: #a80e4e; ;
+}
+.btn-color3{
+  background-color: #D70F64;
+  color: white;
+  width: 300px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 35px;
+  border-radius: 0px;
+  text-transform: uppercase;
+  
+}
+.btn-color3:hover{
+  color: white;
+  background-color: #a80e4e; ;
+}
+
+
+.search-bar
+{
+    height: 60px;
+    width: 60%;
+    margin-left: 10px;
+}
+
+.group-1
+{
+    margin-top: 150px;
+}
+
+.inp-1
+{
+    background-color: ffffff;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+/* group-1 end */
+
+/* partner-group */
+
+.partner
+{
+ font-size: 180px;
+ color: rgba(80, 80, 80, 0.13);
+ font-weight: bold;
+}
+
+.pragraph
+{
+    position:relative;
+    font-size: 30px;
+    bottom:120px;
+    color: rgba(10, 10, 10, 0.671);
+}
+
+.partner-group
+{
+    position: relative;
+    top: 130px;
+    z-index: -1;
+}
+
+/* partner-group end*/
+
+/* group-1*/
+.back-image-2
+{
+    height: 70vh !important;
+ background-image: url(images/back-image-1.webp);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-size: cover !important;
+ background-position: center;
+
+}
+
+.back-image-3
+{
+    height: 70vh !important;
+ background-image: url(images/office.webp);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-size: cover !important;
+ background-position: center;
+
+}
+
+
+.card-1
+{
+    position: relative;
+    top: 200px;
+}
+
+.card-2
+{
+  position: relative;
+    top: 320px;
+}
+
+
+
+/* group-1 end */
+
+/* gallry */
+
